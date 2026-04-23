@@ -1,6 +1,6 @@
 # All Restaurants in Racine, Wisconsin, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `287806` |
 | Location | Racine |
 | Category | Restaurants |
-| Full dataset size | 284 records |
-| Free sample size | 28 records (9.86%) |
-| Last export | 2026-04-16T13:58:16.554205+00:00 |
+| Full dataset size | 243 records |
+| Free sample size | 24 records (9.88%) |
+| Last export | 2026-04-23T12:40:01.005396+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-racine-wisconsin-us-sample-287806/releases/download/sample-latest/beamstation_287806_restaurants-us-wi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
