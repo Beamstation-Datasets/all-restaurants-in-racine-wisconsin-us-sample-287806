@@ -1,12 +1,12 @@
 {
-  "export_job_id": "001ea4ef-614b-4d2c-93fe-8091673870c8",
+  "export_job_id": "4d949312-400c-456d-a328-fd3a5fe0da4e",
   "id_short": 287806,
-  "published_at": "2026-04-23T19:18:56Z",
+  "published_at": "2026-04-30T19:07:51Z",
   "repo_name": "all-restaurants-in-racine-wisconsin-us-sample-287806",
   "sample_asset_name": "beamstation_287806_restaurants-us-wi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/287806/beamstation_287806_restaurants-us-wi_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "9f7b6f8d51c27235aea4e162ee010abe00ba4f4fa7846ff928cffc09b520be1f",
-  "sample_size_bytes": 98490,
-  "total_records": 243
+  "sample_records": 29,
+  "sample_sha256": "88c6d110da7329ee00e81f41606877579c56ce12eaf0489c578c7a5628e24056",
+  "sample_size_bytes": 107140,
+  "total_records": 295
 }
